@@ -24,7 +24,7 @@ export default class Experience extends Component {
                                     </h6>
                                     <p>
                                     Enrolled in a full-time, university-certified intensive web development bootcamp, nearing completion and with 
-                                    an average grade of 99%. <br />
+                                    an average grade of 100%. <br />
                                     This is a project-focused course,the topics and technologies covered in the course were:
                                     </p>
                                     <ul>

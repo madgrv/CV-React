@@ -23,7 +23,7 @@ export default class Education extends Component {
                                 <p>
                                 Bootcamp <br/>
                                 Full Stack Web Development.<br/>
-                                Graded: 99% average
+                                Graded: 100% average
                                 </p>
                             </blockquote>
                         </div>
