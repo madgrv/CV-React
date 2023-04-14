@@ -19,13 +19,13 @@ export default class Experience extends Component {
                             <div className='col s12'>
                                 <blockquote className='content-right'>
                                     <h6 className="no-pad mt-bottom">
-                                    <storng className='sectionTitle'>STUDENT AT HYPERION DEV </storng>
+                                    <storng className='sectionTitle'>STUDENT AT HYPERION DEV</storng>
                                     <span className='duration'> Dec 2022 - Apr 2023</span>
                                     </h6>
                                     <p>
-                                    Enrolled in a full-time, university-certified intensive web development bootcamp, nearing completion and with 
+                                    Full-time, university-certified intensive web development bootcamp, graduated with 
                                     an average grade of 100%. <br />
-                                    This is a project-focused course,the topics and technologies covered in the course were:
+                                    Project-focused course,the topics and technologies covered in the course were:
                                     </p>
                                     <ul>
                                         <li> Basics of computer programming and algorithms</li>
