@@ -51,8 +51,10 @@ export default class Experience extends Component {
                                     <br/>
                                     <br/>
                                     Management of bookings, timelines, and budgets. With a keen eye for product identity and authenticity and a 
-                                    passion for technology and innovation.
-                                    A career path that stemmed from experience as a musician and passion for sound. 
+                                    passion for technology and innovation. <br/>
+                                    I have helped artists reach major record-label quality releases, gaining them millions of Spotify streams.
+                                    <br/>
+                                    A career path that stemmed from experience as a musician and a passion for sound. 
                                     <br/>
                                     <br/>
                                     Notable credits include: Rex Kudo, Andrew Sheps, Mark Ralph, Yoad Nevo, and Aamir Yaqub.
