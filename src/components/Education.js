@@ -23,7 +23,7 @@ export default class Education extends Component {
                                 <p>
                                 Bootcamp <br/>
                                 Full Stack Web Development.<br/>
-                                Graded: 100% average
+                                Graded: 100% average.
                                 </p>
                             </blockquote>
                         </div>
@@ -37,7 +37,7 @@ export default class Education extends Component {
                                 </h6>
                                 <p>
                                 BMus (Hons) - Music Performance <br/>
-                                Graded: Second Class (Upper Division) Honours
+                                Graded: Second Class (Upper Division) Honours.
                                 </p>
                             </blockquote>
                         </div>
